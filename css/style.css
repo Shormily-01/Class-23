@@ -1,0 +1,8 @@
+.row{
+   margin-top: 50px;
+}
+img{
+    margin-top: 40px;
+    margin-left: 50%;
+    transform: translate(-50%);
+}
